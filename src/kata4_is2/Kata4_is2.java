@@ -6,10 +6,10 @@
 package kata4_is2;
 
 import kata4_is2.persistence.MailListReader;
-import kata_is2.view.HistogramDisplay;
-import kata_is2.view.MailHistogramBuilder;
-import kata_is2.model.Mail;
-import kata_is2.model.Histogram;
+import kata4_is2.view.HistogramDisplay;
+import kata4_is2.view.MailHistogramBuilder;
+import kata4_is2.model.Mail;
+import kata4_is2.model.Histogram;
 import java.util.List;
 
 /**

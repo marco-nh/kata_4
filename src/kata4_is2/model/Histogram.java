@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package kata_is2.model;
+package kata4_is2.model;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;

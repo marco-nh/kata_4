@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package kata_is2.view;
+package kata4_is2.view;
 
-import kata_is2.model.Mail;
-import kata_is2.model.Histogram;
+import kata4_is2.model.Mail;
+import kata4_is2.model.Histogram;
 import java.util.List;
 
 /**

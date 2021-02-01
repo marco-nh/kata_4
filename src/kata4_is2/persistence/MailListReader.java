@@ -5,7 +5,7 @@
  */
 package kata4_is2.persistence;
 
-import kata_is2.model.Mail;
+import kata4_is2.model.Mail;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
